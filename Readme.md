@@ -6,6 +6,7 @@
 
 https://mrllanes.github.io/E-commerce-Back-End/
 https://github.com/mrllanes/E-commerce-Back-End
+https://youtu.be/bmsOCM-bmmY (Runthrough Video)
 
 ## Table of Contents
 
